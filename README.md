@@ -5,3 +5,5 @@ Calculates the load times for the AMP Dashboard and Events page in all 3 portals
 https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 2. You need to fill in credentials for each portal for accounts without Two Factor Authentication enabled in the config.py script.
+
+NOTE: Requires Python 3.6+
