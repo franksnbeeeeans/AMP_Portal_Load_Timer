@@ -6,4 +6,7 @@ https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 2. You need to fill in credentials for each portal for accounts without Two Factor Authentication enabled in the config.py script.
 
+3. If you haven't installed selenium, you'll need to do that:
+pip install selenium
+
 NOTE: Requires Python 3.6+
